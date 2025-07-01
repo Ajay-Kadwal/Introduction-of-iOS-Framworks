@@ -11,7 +11,7 @@ import SwiftUI
 struct iOSFramworksApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            StructClassActros()
         }
     }
 }
